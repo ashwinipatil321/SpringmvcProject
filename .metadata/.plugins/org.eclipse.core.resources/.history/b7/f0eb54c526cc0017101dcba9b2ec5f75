@@ -1,0 +1,11 @@
+package com.helloSpringMvc.Controller;
+
+import javax.swing.Spring;
+
+public class AddController {
+
+	public void add()
+	{
+		System.out.println("hellow");
+	}
+}

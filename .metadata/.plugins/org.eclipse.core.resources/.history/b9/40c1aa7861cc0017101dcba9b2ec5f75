@@ -1,0 +1,8 @@
+<html>
+<body>
+	<%
+		String greeting = request.getAttribute("greeting");
+		out.println("Greeting-->" + greeting);
+	%>
+</body>
+</html>

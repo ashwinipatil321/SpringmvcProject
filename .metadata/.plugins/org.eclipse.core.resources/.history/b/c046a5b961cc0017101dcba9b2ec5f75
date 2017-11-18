@@ -1,0 +1,5 @@
+<html>
+<body>
+	<c:out value='${poll1Yes}' />
+</body>
+</html>

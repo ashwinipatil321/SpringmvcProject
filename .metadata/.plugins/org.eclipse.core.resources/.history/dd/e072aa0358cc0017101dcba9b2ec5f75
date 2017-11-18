@@ -1,0 +1,5 @@
+package com.helloSpringMvc.Configuration;
+
+public class HelloWorldInitializer {
+
+}

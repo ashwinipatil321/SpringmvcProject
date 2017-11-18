@@ -1,0 +1,5 @@
+package com.helloSpringMvch.Configuration;
+
+public class HelloWorldConfiguration {
+
+}

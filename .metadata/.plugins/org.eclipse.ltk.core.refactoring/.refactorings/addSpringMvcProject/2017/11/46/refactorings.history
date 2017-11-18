@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.springmvcController&apos; to &apos;com.addSpringMvc&apos;&#x0A;- Original project: &apos;addSpringMvcProject&apos;&#x0A;- Original element: &apos;addSpringMvcProject/src/main/java/com.springmvcController&apos;&#x0A;- Renamed element: &apos;addSpringMvcProject/src/main/java/com.addSpringMvc&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.springmvcController&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.springmvcController" name="com.addSpringMvc" qualified="false" references="true" stamp="1510989147332" textual="false" version="1.0"/>
+</session>

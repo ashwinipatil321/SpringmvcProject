@@ -1,0 +1,21 @@
+package com.helloSpringMvc.Controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class AddController {
+	
+@RequestMapping("/add")
+	public String add()
+	{
+		return "display";
+	}
+}
+
+@RequestMapping("/w")
+public String wel()
+{
+	return "welcome";
+}
+}
