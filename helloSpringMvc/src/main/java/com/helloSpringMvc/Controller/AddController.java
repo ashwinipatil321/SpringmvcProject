@@ -11,5 +11,4 @@ public class AddController {
 	{
 		return "display.jsp";
 	}
-
 }
